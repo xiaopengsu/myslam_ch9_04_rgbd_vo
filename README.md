@@ -7,5 +7,5 @@
 ## pangolin工具  
 ![pangolin工具](https://github.com/xiaopengsu/myslam_ch9_04_rgbd_vo/blob/main/result_show/slam_cv_viz_panolin_1.png)
 
-## 参考网址:[开源节流](https://mp.csdn.net/editor/html/110530754)
-https://mp.csdn.net/editor/html/110530754
+## 参考网址:[开源节流](https://blog.csdn.net/KYJL888/article/details/110530754)
+https://blog.csdn.net/KYJL888/article/details/110530754
